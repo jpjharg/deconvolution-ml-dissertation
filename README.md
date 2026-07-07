@@ -33,7 +33,7 @@ Oputperforms previous attempts to deconvolute Compton profiles by improving reso
 
 ![Architecture of U-net model](U-net_diagram.png)
 
-* U-net architecture *
+*U-net architecture*
 
 
 ![Deconvolution results comparison](U_net_100_mcp.png)
