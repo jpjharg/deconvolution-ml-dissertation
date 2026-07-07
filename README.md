@@ -29,7 +29,17 @@ Combined the CNN with the Richardson-Lucy algorithm to leverage the strengths
 of both approaches, achieving the best overall results.
 
 ## Results
-Oputperforms previous attempts to deconvolute Compton profiles by improving resoluton by 0.25 atomic units. 
+Oputperforms previous attempts to deconvolute Compton profiles by improving resoluton by 0.25 atomic units.
+
+![Architecture of U-net model](U-net_diagram.png)
+
+* U-net architecture *
+
+
+![Deconvolution results comparison](U_net_100_mcp.png)
+
+*Blurred and reconsturctured Magnetic Compton Profile of Nickel*
+
 
 ## Repository Structure
 
